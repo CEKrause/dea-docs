@@ -38,7 +38,7 @@ To setup Strudel to connect to the NCI, run the Strudel application, then:
 To connect:
 
 * Site: **NCI Virtual Desktops**
-* Username: Your NCI username (eg `abc123` or `ab1234`)
+* Username: Your NCI username (eg ``abc123`` or ``ab1234``)
 * Click **Login**
 
 .. note::
@@ -63,18 +63,18 @@ In the terminal window run the command::
 
    sh /g/data/v10/public/digitalearthau/install.sh
 
-You can then launch Jupyter Notebooks, with the Digital Earth Australia environment preconfigured, by double-clicking the icon.
+You can then launch `JupyterLab <../jupyter.rst>`_, with the Digital Earth Australia environment preconfigured, by double-clicking the icon.
 From within this environment you can access the notebooks from the User Guide below, or create your own notebooks to work with Digital Earth Australia.
 
 Shutting Down VDI
 =================
 
-After you have finished working on the VDI, any open terminals can be closed using the x in
+After you have finished working on the VDI, any open terminals can be closed using the ``x`` in
 the corner of the tab and the VDI can be closed by clicking your name displayed in the top
 right corner of the VDI interface and selecting Quit. The Strudel window will subsequently also
 close after a few moments.
 
 If you wish to disconnect from the VDI but keep the session running you can close the VDI
-window using the x in the top right corner of the window and select keep the session running
+window using the ``x`` in the top right corner of the window and select keep the session running
 when prompted by the Strudel window. Later you can reconnect to the VDI and resume the previous
 session.
