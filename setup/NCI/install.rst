@@ -17,9 +17,7 @@ Install TurboVNC and Strudel according to the instructions at http://vdi.nci.org
 
 .. note::
    Your institution may provide this software to be installed via an internal process.
-   For example at Geoscience Australia, the software can be requested from the
-   `Software Service Management System (SSMS) <http://intranet.ga.gov.au/CherwellPortal/SSMS>`_
-   [internal link only].
+   For example at Geoscience Australia, the software can be requested from the "Software Center" on Windows machines.
 
 Connecting to the VDI
 =====================
